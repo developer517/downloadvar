@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ae:configurations xmlns:ae="http://agavi.org/agavi/config/global/envelope/1.0" xmlns="http://agavi.org/agavi/config/parts/routing/1.0">
+	<ae:configuration>
+		<routes>
+			<!-- default action for "/" -->
+			<route name="index" pattern="^/$" module="%actions.default_module%" action="%actions.default_action%" />
+			<route name="login" pattern="^/login$" module="Default" action="Login" />
+			<route name="logout" pattern="^/logout$" module="Default" action="Logout" />
+			<route name="sitenews" pattern="^/site-news/(id:\d+)$" action="Sitenews" module="Default" />
+			<route name="singelnews" pattern="^/single/(id:\d+)$" action="Singelnews" module="Default" />
+			
+			<route name="page" pattern="^/page/(id:\d+)$" action="Page" module="Default" />
+			<route name="category" pattern="^/(category:\w+)/(id:\d+)$" action="Category" module="Default" />
+			<route name="second" pattern="^/(cat:\w+)/(sec)/(id:\d+)$" action="Second" module="Default" />
+			<route name="third" pattern="^/(cat:\w+)/(th)/(id:\d+)$" action="Third" module="Default" />
+			
+			<route name="download" pattern="^/download" module="Download" >
+			<route name=".continue" pattern="^/continue/(id:\d+)$" action="Continue" />
+			</route>
+			<!-- contact us -->
+			<route name="connective" pattern="^/connective" module="Connective" >
+			<route name=".contact" pattern="^/cantact" action="Contact">
+			<route name=".us" pattern="^/with-us$" action=".Us" />
+			</route>
+			<route name=".comment" pattern="^/comment" action="Comment">
+			<route name=".create" pattern="^/create/(id:\d+)$" action=".Create" />
+			</route>
+			<route name=".about" pattern="^/about" action="About">
+			<route name=".us" pattern="^/us$" action=".Us" />
+			</route>
+			</route>
+			
+			
+			<!-- This Section For Admin Pag -->
+			<route name="news" pattern="^/news" module="News" >
+			<route name=".first" pattern="^/first-page" action="First">
+			<route name=".admin" pattern="^/administrator$" action=".Admin" />
+			</route>
+			
+			<route name=".user" pattern="^/user" action="User">
+			<route name=".admin" pattern="^/admin" action=".Admin">
+			<route name=".index" pattern="^/index$" action=".Index" />
+			</route>
+			<route name=".edit" pattern="^/edit" action=".Edit">
+			<route name=".index" pattern="^/index/(id:\d+)$" action=".Index" />
+			</route>
+			<route name=".delete" pattern="^/delete" action=".Delete">
+			<route name=".index" pattern="^/index/(id:\d+)$" action=".Index" />
+			</route>
+			<route name=".create" pattern="^/create" action=".Create">
+			<route name=".index" pattern="^/index$" action=".Index" />
+			</route>
+			</route>
+			
+			<route name=".call" pattern="^/call" action="Call">
+			<route name=".admin" pattern="^/admin" action=".Admin">
+			<route name=".create" pattern="^/index$" action=".Create" />
+			</route>
+			<route name=".delete" pattern="^/delete-post" action=".Delete">
+			<route name=".del" pattern="^/del/(id:\d+)$" action=".Del" />
+			</route>
+			<route name=".ellow" pattern="^/ellow" action=".Ellow">
+			<route name=".yes" pattern="^/yes/(id:\d+)$" action=".Yes" />
+			</route>
+			<route name=".main" pattern="^/main-admin" action=".Main">
+			<route name=".page" pattern="^/page$" action=".Page" />
+			</route>
+			</route>
+			
+			<route name=".comment" pattern="^/comment" action="Comment">
+			<route name=".admin" pattern="^/adminstrator" action=".Admin">
+			<route name=".index" pattern="^/admin-page$" action=".Index" />
+			</route>
+			<route name=".delete" pattern="^/delete-post" action=".Delete">
+			<route name=".del" pattern="^/del/(id:\d+)$" action=".Del" />
+			</route>
+			<route name=".ellow" pattern="^/ellow" action=".Ellow">
+			<route name=".yes" pattern="^/yes/(id:\d+)$" action=".Yes" />
+			</route>
+			<route name=".answer" pattern="^/answer" action=".Answer">
+			<route name=".add" pattern="^/add/(id:\d+)$" action=".Add" />
+			</route>
+			<route name=".main" pattern="^/main-admin" action=".Main">
+			<route name=".page" pattern="^/page$" action=".Page" />
+			</route>
+			</route>
+			
+			<route name=".site" pattern="^/site-news" action="Site">
+			<route name=".create" pattern="^/create" action=".Create">
+			<route name=".add" pattern="^/add-news$" action=".Add" />
+			</route>
+			<route name=".admin" pattern="^/adminstrator" action=".Admin">
+			<route name=".index" pattern="^/admin-page$" action=".Index" />
+			</route>
+			<route name=".delete" pattern="^/delete-post" action=".Delete">
+			<route name=".del" pattern="^/del/(id:\d+)$" action=".Del" />
+			</route>
+			<route name=".edite" pattern="^/edite-post" action=".Edite">
+			<route name=".edit" pattern="^/edit/(id:\d+)$" action=".Edit" />
+			</route>
+			</route>
+			
+			<route name=".matter" pattern="^/matter" action="Matter">
+			<route name=".waiting" pattern="^/waiting" action=".Waiting">
+			<route name=".index" pattern="^/queue$" action=".Index" />
+			</route>
+			<route name=".publish" pattern="^/publish" action=".Publish">
+			<route name=".pub" pattern="^/pub/(id:\d+)$" action=".Pub" />
+			</route>
+			<route name=".create" pattern="^/create" action=".Create">
+			<route name=".add" pattern="^/add$" action=".Add" />
+			</route>
+			<route name=".admin" pattern="^/admin" action=".Admin">
+			<route name=".index" pattern="^/index$" action=".Index" />
+			<route name=".paginate" pattern="^/page/(id:\d+)$" action=".Paginate" />
+			</route>
+			<route name=".delete" pattern="^/delete" action=".Delete">
+			<route name=".del" pattern="^/del/(id:\d+)$" action=".Del" />
+			</route>
+			<route name=".edite" pattern="^/edite" action=".Edite">
+			<route name=".edit" pattern="^/edit/(id:\d+)$" action=".Edit" />
+			</route>
+			</route>
+			
+			<route name=".menu" pattern="^/menu" action="Menu">
+			<route name=".create" pattern="^/create" action=".Create">
+			<route name=".add" pattern="^/add$" action=".Add" />
+			</route>
+			<route name=".admin" pattern="^/admin" action=".Admin">
+			<route name=".index" pattern="^/index$" action=".Index" />
+			</route>
+			<route name=".delete" pattern="^/delete" action=".Delete">
+			<route name=".del" pattern="^/del/(id:\d+)$" action=".Del" />
+			</route>
+			<route name=".edite" pattern="^/edite" action=".Edite">
+			<route name=".edit" pattern="^/edit/(id:\d+)$" action=".Edit" />
+			</route>
+			</route>
+			
+			<route name=".twomenu" pattern="^/two-menu" action="TwoMenu">
+			<route name=".create" pattern="^/create" action=".Create">
+			<route name=".add" pattern="^/add$" action=".Add" />
+			</route>
+			<route name=".admin" pattern="^/admin" action=".Admin">
+			<route name=".index" pattern="^/index$" action=".Index" />
+			</route>
+			<route name=".delete" pattern="^/delete" action=".Delete">
+			<route name=".del" pattern="^/del/(id:\d+)$" action=".Del" />
+			</route>
+			<route name=".edite" pattern="^/edite" action=".Edite">
+			<route name=".edit" pattern="^/edit/(id:\d+)$" action=".Edit" />
+			</route>
+			</route>
+			
+			<route name=".threemenu" pattern="^/three-menu" action="ThreeMenu">
+			<route name=".create" pattern="^/create" action=".Create">
+			<route name=".add" pattern="^/add$" action=".Add" />
+			</route>
+			<route name=".admin" pattern="^/admin" action=".Admin">
+			<route name=".index" pattern="^/index$" action=".Index" />
+			</route>
+			<route name=".delete" pattern="^/delete" action=".Delete">
+			<route name=".del" pattern="^/del/(id:\d+)$" action=".Del" />
+			</route>
+			<route name=".edite" pattern="^/edite" action=".Edite">
+			<route name=".edit" pattern="^/edit/(id:\d+)$" action=".Edit" />
+			</route>
+			</route>
+			
+			</route>
+			
+			
+			
+			
+			<!-- an example for a CRUD-style set of routes -->
+			<route name="products" pattern="^/products" module="Products">
+				<!-- do not put the action into the parent route, because that one is not anchored at the end of the pattern! -->
+				<route name=".index" pattern="^$" action="Index" />
+				<route name=".latest" pattern="^/latest$" action="Latest" />
+				
+				<route name=".create" pattern="^/add$" action="Add" />
+				<!-- "Product" is not an action, but just a folder with sub-actions. if only this route, without children, matches, then the action cannot be resolved and a 404 is shown - exactly what we want! -->
+				<route name=".product" pattern="^/(id:\d+)" action="Product">
+					<route name=".view" pattern="^$" action=".View" />
+					<route name=".edit" pattern="^/edit$" action=".Edit" />
+					<route name=".delete" pattern="^/delete$" action=".Delete" />
+					
+					<!-- the gallery page is optional here, but the request parameter should not contain the leading slash, so our special syntax is in order -->
+					<route name=".gallery" pattern="^/gallery(/{page:\d+})?$" action=".Gallery">
+						<!-- assume the "1" by default and tell the routing what the rest of the string will look like when generating a URL -->
+						<default for="page">/{1}</default>
+					</route>
+				</route>
+			</route>
+		</routes>
+	</ae:configuration>
+</ae:configurations>

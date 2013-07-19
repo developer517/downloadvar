@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+ <!-- Uncomment this if you have PEAR Log installed
+  <log>
+    <type>file</type>
+    <name>/path/to/propel.log</name>
+    <ident>propel-downloadvar</ident>
+    <level>7</level>
+  </log>
+  -->
+  <propel>
+    <datasources default="downloa3_downloadvar">
+      <datasource id="downloa3_downloadvar">
+        <adapter>mysql</adapter>
+        <connection>
+          <dsn>mysql:host=localhost;dbname=downloa3_downloadvar</dsn>
+          <user>root</user>
+          <password></password>
+        </connection>
+		</datasource>
+    </datasources>
+  </propel>
+</config>
+
+

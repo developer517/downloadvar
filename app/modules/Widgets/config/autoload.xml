@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ae:configurations xmlns="http://agavi.org/agavi/config/parts/autoload/1.0" xmlns:ae="http://agavi.org/agavi/config/global/envelope/1.0">
+	
+	<ae:configuration>
+		
+		<autoload name="downloadvarWidgetsBaseAction">%core.module_dir%/Widgets/lib/action/downloadvarWidgetsBaseAction.class.php</autoload>
+		<autoload name="downloadvarWidgetsBaseModel">%core.module_dir%/Widgets/lib/model/downloadvarWidgetsBaseModel.class.php</autoload>
+		<autoload name="downloadvarWidgetsBaseView">%core.module_dir%/Widgets/lib/view/downloadvarWidgetsBaseView.class.php</autoload>
+		
+	</ae:configuration>
+	
+</ae:configurations>

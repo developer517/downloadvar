@@ -1,0 +1,2877 @@
+[1/3/2007 1:41:37 PM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 19: Tag header invalid
+
+[Error #801] Line 39: Tag nav invalid
+
+[Error #801] Line 72: Tag section invalid
+
+[Error #801] Line 109: Tag header invalid
+
+[Error #801] Line 110: Tag section invalid
+
+[Error #801] Line 120: Tag article invalid
+
+[Error #801] Line 121: Tag header invalid
+
+[Error #801] Line 156: Tag footer invalid
+
+[Error #801] Line 164: Tag section invalid
+
+[Error #801] Line 245: Tag footer invalid
+
+[Error #801] Line 246: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="robots" content="all" />
+		<meta name="googlebot" content="index, follow" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title></title>
+		<meta name="description" content="" />
+		<meta name="keywords" content=""/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+        <link type="text/css" rel="stylesheet" href="tabmenu.css"  />
+        <script type="text/javascript" src="js/tabmenu.js"></script>
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<!-- 
+<li><a href="/index.php/connective/about/us">درباره ما</a></li>
+-->
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="homepage"></div>
+</div>
+</div>
+
+<!-- This page took 0.11885905265808 seconds to process -->					<div id="content-wrapper">
+<!-- 
+<center>
+<div style="margin-top:20px" class="leader-board">
+<embed width="728" height="90" src="flash/2.swf" wmode="transparent"><br>
+<embed width="468" height="60" src="flash/10.swf" wmode="transparent">
+<embed width="468" height="60" style="overflow: hidden;" src="flash/12.swf">
+
+</div>
+<div style="border-top:1px solid #D4D4D4;width:945px;margin-top:8px;" class="divider"></div>
+</center>
+-->
+<div id="content" class="clearfix">
+<section id="main-content">
+<div class="blogroll">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>16</b><br />
+	<div class="blogroll-outer-wrapper">
+		<div class="blogroll-inner-wrapper">
+			<div class="blogroll-link-wrapper">
+					<ul>
+					<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>25</b><br />
+					<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>31</b><br />
+					</ul>
+					</div>
+			</div>
+		</div>
+	</div>
+<!-- 
+<div class="ad-468">
+<span>
+<a href="" rel="nofollow" target="_blank">
+<img width="468" height="60" src="" style="padding-bottom: 3px"></a>
+</span>
+</div>
+-->
+<center>
+<div class="download-links">
+              <span>برای مشاهده بهتر سایت از آخرین نسخه مرورگر فایر فاکس استفاده کنید!</span>
+            </div>
+            </center>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>57</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>88</b><br />
+
+<div id="related-topics">
+<div class="related-topics-wrapper">
+<header><h2>مطالب مرتبط با </h2></header>
+<section>
+<ul>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>180</b><br />
+</ul>
+</section>
+</div>
+</div>
+<div class="article-wrapper" style="-moz-transition: all 0.3s ease-out 0s;
+    background: none repeat scroll 0 0 #F5F5F5;">
+<article class="post">
+<header>
+<h1 style="font-family:b yekan;color: #A7A7A7;" >ارسال دیدگاه برای این مطلب</h1>
+</header>
+<div class="post-content">
+<center>
+<div class="addcomment">
+<form method="post" action="">
+
+	<div class="commentdata">
+		<label for="author">نام شما :</label>
+		<input type="text" class="input-comment" tabindex="1" value="" id="author" name="author">
+		<div class="clear"></div>
+
+		<label for="email">ایمیل :</label>
+		<input type="text" class="input-comment" tabindex="2" value="" id="email" name="email">
+		<div class="clear"></div>
+
+		<label for="url">وب سایت :</label>
+		<input type="text" class="input-comment" tabindex="3" value="" id="url" name="url">
+	</div>
+
+	<div class="textarea-box">
+		<label for="comment">نظر شما:</label><div class="clear"></div>
+		<textarea class="text-box" tabindex="4" id="text" name="comment"></textarea>
+	</div>
+
+	<div class="clear"></div>
+
+	<input type="submit" value="ارسال نظر " tabindex="5" id="submit" name="submit" class="comment-button">
+	<input type="hidden" value="51229" name="comment_post_ID">
+
+	</form>
+	</div>
+	</center>
+</div>
+<footer class="clearfix">
+</footer>
+</article>
+</div>
+</section>
+
+<!-- ****************************************** sidebar ****************************************** -->
+
+<section id="sidebar">
+<!-- 
+<div class="widget sidebar-ads">
+<h2>تبلیغات</h2>
+
+ <div class="block-content">
+<div class="widget sidebar-ads">
+<div style="padding:1px;" class="widget-ads ads120">
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/3.swf">
+				</span>
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/7.swf">
+				</span>
+</div>
+</div>
+</div>
+</div>
+-->
+<div class="widget basic-list-linkdump">
+<h2>پر بازدیدترین مطالب</h2>
+<div class="block-content">
+	 <ul>
+	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>261</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>262</b><br />
+		</ul>
+</div>
+</div>
+<div class="widget big-icon-list">
+<h2>نرم افزار های مورد نیاز</h2>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>277</b><br />
+</div>
+<div class="widget basic-list-linkdump">
+<h2>بیشترین دانلودها</h2>
+<div class="block-content">
+	 <ul>
+	 	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>301</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>302</b><br />
+		</ul>
+</div>
+</div>
+<!-- 
+<div class="widget basic-list">
+<h2>مطالب تصادفی</h2>
+<div class="block-content">
+	 <ul>
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>320</b><br />
+		</ul>
+</div>
+</div>
+-->
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>333</b><br />
+<div class="widget linkroll">
+<h2>اخبار سایت</h2>
+<div class="block-content">
+<ul class="clearfix">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>362</b><br />
+</ul>
+</div>
+</div>
+<!-- 
+<div class="widget linkroll">
+<h2>تبادل لینک</h2>
+<div class="block-content">
+<ul class="clearfix">
+<li><a href="" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+-->
+</section>
+</div>
+</div>		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.057572841644287 seconds to process -->	</body>
+</html>
+
+
+<!-- This page took 0.38157486915588 seconds to process -->
+[1/3/2007 1:42:18 PM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 19: Tag header invalid
+
+[Error #801] Line 39: Tag nav invalid
+
+[Error #801] Line 71: Tag section invalid
+
+[Error #801] Line 108: Tag header invalid
+
+[Error #801] Line 109: Tag section invalid
+
+[Error #801] Line 119: Tag article invalid
+
+[Error #801] Line 120: Tag header invalid
+
+[Error #801] Line 155: Tag footer invalid
+
+[Error #801] Line 163: Tag section invalid
+
+[Error #801] Line 244: Tag footer invalid
+
+[Error #801] Line 245: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="robots" content="all" />
+		<meta name="googlebot" content="index, follow" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title></title>
+		<meta name="description" content="" />
+		<meta name="keywords" content=""/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+        <link type="text/css" rel="stylesheet" href="tabmenu.css"  />
+        <script type="text/javascript" src="js/tabmenu.js"></script>
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<!-- 
+<li><a href="/index.php/connective/about/us">درباره ما</a></li>
+-->
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="homepage"></div>
+</div>
+</div>
+
+<!-- This page took 0.092272996902466 seconds to process -->					<div id="content-wrapper">
+<!-- 
+<center>
+<div style="margin-top:20px" class="leader-board">
+<embed width="728" height="90" src="flash/2.swf" wmode="transparent"><br>
+<embed width="468" height="60" src="flash/10.swf" wmode="transparent">
+<embed width="468" height="60" style="overflow: hidden;" src="flash/12.swf">
+</div>
+<div style="border-top:1px solid #D4D4D4;width:945px;margin-top:8px;" class="divider"></div>
+</center>
+-->
+<div id="content" class="clearfix">
+<section id="main-content">
+<div class="blogroll">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>15</b><br />
+	<div class="blogroll-outer-wrapper">
+		<div class="blogroll-inner-wrapper">
+			<div class="blogroll-link-wrapper">
+					<ul>
+					<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>24</b><br />
+					<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>30</b><br />
+					</ul>
+					</div>
+			</div>
+		</div>
+	</div>
+<!-- 
+<div class="ad-468">
+<span>
+<a href="" rel="nofollow" target="_blank">
+<img width="468" height="60" src="" style="padding-bottom: 3px"></a>
+</span>
+</div>
+-->
+<center>
+<div class="download-links">
+              <span>برای مشاهده بهتر سایت از آخرین نسخه مرورگر فایر فاکس استفاده کنید!</span>
+            </div>
+            </center>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>56</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>87</b><br />
+
+<div id="related-topics">
+<div class="related-topics-wrapper">
+<header><h2>مطالب مرتبط با </h2></header>
+<section>
+<ul>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>179</b><br />
+</ul>
+</section>
+</div>
+</div>
+<div class="article-wrapper" style="-moz-transition: all 0.3s ease-out 0s;
+    background: none repeat scroll 0 0 #F5F5F5;">
+<article class="post">
+<header>
+<h1 style="font-family:b yekan;color: #A7A7A7;" >ارسال دیدگاه برای این مطلب</h1>
+</header>
+<div class="post-content">
+<center>
+<div class="addcomment">
+<form method="post" action="">
+
+	<div class="commentdata">
+		<label for="author">نام شما :</label>
+		<input type="text" class="input-comment" tabindex="1" value="" id="author" name="author">
+		<div class="clear"></div>
+
+		<label for="email">ایمیل :</label>
+		<input type="text" class="input-comment" tabindex="2" value="" id="email" name="email">
+		<div class="clear"></div>
+
+		<label for="url">وب سایت :</label>
+		<input type="text" class="input-comment" tabindex="3" value="" id="url" name="url">
+	</div>
+
+	<div class="textarea-box">
+		<label for="comment">نظر شما:</label><div class="clear"></div>
+		<textarea class="text-box" tabindex="4" id="text" name="comment"></textarea>
+	</div>
+
+	<div class="clear"></div>
+
+	<input type="submit" value="ارسال نظر " tabindex="5" id="submit" name="submit" class="comment-button">
+	<input type="hidden" value="51229" name="comment_post_ID">
+
+	</form>
+	</div>
+	</center>
+</div>
+<footer class="clearfix">
+</footer>
+</article>
+</div>
+</section>
+
+<!-- ****************************************** sidebar ****************************************** -->
+
+<section id="sidebar">
+<!-- 
+<div class="widget sidebar-ads">
+<h2>تبلیغات</h2>
+
+ <div class="block-content">
+<div class="widget sidebar-ads">
+<div style="padding:1px;" class="widget-ads ads120">
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/3.swf">
+				</span>
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/7.swf">
+				</span>
+</div>
+</div>
+</div>
+</div>
+-->
+<div class="widget basic-list-linkdump">
+<h2>پر بازدیدترین مطالب</h2>
+<div class="block-content">
+	 <ul>
+	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>260</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>261</b><br />
+		</ul>
+</div>
+</div>
+<div class="widget big-icon-list">
+<h2>نرم افزار های مورد نیاز</h2>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>276</b><br />
+</div>
+<div class="widget basic-list-linkdump">
+<h2>بیشترین دانلودها</h2>
+<div class="block-content">
+	 <ul>
+	 	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>300</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>301</b><br />
+		</ul>
+</div>
+</div>
+<!-- 
+<div class="widget basic-list">
+<h2>مطالب تصادفی</h2>
+<div class="block-content">
+	 <ul>
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>319</b><br />
+		</ul>
+</div>
+</div>
+-->
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>332</b><br />
+<div class="widget linkroll">
+<h2>اخبار سایت</h2>
+<div class="block-content">
+<ul class="clearfix">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>361</b><br />
+</ul>
+</div>
+</div>
+<!-- 
+<div class="widget linkroll">
+<h2>تبادل لینک</h2>
+<div class="block-content">
+<ul class="clearfix">
+<li><a href="" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+-->
+</section>
+</div>
+</div>		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.039882898330688 seconds to process -->	</body>
+</html>
+
+
+<!-- This page took 0.2765519618988 seconds to process -->
+[1/3/2007 1:43:13 PM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 19: Tag header invalid
+
+[Error #801] Line 39: Tag nav invalid
+
+[Error #801] Line 71: Tag section invalid
+
+[Error #801] Line 108: Tag header invalid
+
+[Error #801] Line 109: Tag section invalid
+
+[Error #801] Line 119: Tag article invalid
+
+[Error #801] Line 120: Tag header invalid
+
+[Error #801] Line 155: Tag footer invalid
+
+[Error #801] Line 163: Tag section invalid
+
+[Error #801] Line 244: Tag footer invalid
+
+[Error #801] Line 245: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="robots" content="all" />
+		<meta name="googlebot" content="index, follow" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title></title>
+		<meta name="description" content="" />
+		<meta name="keywords" content=""/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+        <link type="text/css" rel="stylesheet" href="tabmenu.css"  />
+        <script type="text/javascript" src="js/tabmenu.js"></script>
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<!-- 
+<li><a href="/index.php/connective/about/us">درباره ما</a></li>
+-->
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="homepage"></div>
+</div>
+</div>
+
+<!-- This page took 0.022439956665039 seconds to process -->					<div id="content-wrapper">
+<!-- 
+<center>
+<div style="margin-top:20px" class="leader-board">
+<embed width="728" height="90" src="flash/2.swf" wmode="transparent"><br>
+<embed width="468" height="60" src="flash/10.swf" wmode="transparent">
+<embed width="468" height="60" style="overflow: hidden;" src="flash/12.swf">
+</div>
+<div style="border-top:1px solid #D4D4D4;width:945px;margin-top:8px;" class="divider"></div>
+</center>
+-->
+<div id="content" class="clearfix">
+<section id="main-content">
+<div class="blogroll">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>15</b><br />
+	<div class="blogroll-outer-wrapper">
+		<div class="blogroll-inner-wrapper">
+			<div class="blogroll-link-wrapper">
+					<ul>
+					<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>24</b><br />
+					<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>30</b><br />
+					</ul>
+					</div>
+			</div>
+		</div>
+	</div>
+<!-- 
+<div class="ad-468">
+<span>
+<a href="" rel="nofollow" target="_blank">
+<img width="468" height="60" src="" style="padding-bottom: 3px"></a>
+</span>
+</div>
+-->
+<center>
+<div class="download-links">
+              <span>برای مشاهده بهتر سایت از آخرین نسخه مرورگر فایر فاکس استفاده کنید!</span>
+            </div>
+            </center>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>56</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>87</b><br />
+
+<div id="related-topics">
+<div class="related-topics-wrapper">
+<header><h2>مطالب مرتبط با </h2></header>
+<section>
+<ul>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>179</b><br />
+</ul>
+</section>
+</div>
+</div>
+<div class="article-wrapper" style="-moz-transition: all 0.3s ease-out 0s;
+    background: none repeat scroll 0 0 #F5F5F5;">
+<article class="post">
+<header>
+<h1 style="font-family:b yekan;color: #A7A7A7;" >ارسال دیدگاه برای این مطلب</h1>
+</header>
+<div class="post-content">
+<center>
+<div class="addcomment">
+<form method="post" action="">
+
+	<div class="commentdata">
+		<label for="author">نام شما :</label>
+		<input type="text" class="input-comment" tabindex="1" value="" id="author" name="author">
+		<div class="clear"></div>
+
+		<label for="email">ایمیل :</label>
+		<input type="text" class="input-comment" tabindex="2" value="" id="email" name="email">
+		<div class="clear"></div>
+
+		<label for="url">وب سایت :</label>
+		<input type="text" class="input-comment" tabindex="3" value="" id="url" name="url">
+	</div>
+
+	<div class="textarea-box">
+		<label for="comment">نظر شما:</label><div class="clear"></div>
+		<textarea class="text-box" tabindex="4" id="text" name="comment"></textarea>
+	</div>
+
+	<div class="clear"></div>
+
+	<input type="submit" value="ارسال نظر " tabindex="5" id="submit" name="submit" class="comment-button">
+	<input type="hidden" value="51229" name="comment_post_ID">
+
+	</form>
+	</div>
+	</center>
+</div>
+<footer class="clearfix">
+</footer>
+</article>
+</div>
+</section>
+
+<!-- ****************************************** sidebar ****************************************** -->
+
+<section id="sidebar">
+<!-- 
+<div class="widget sidebar-ads">
+<h2>تبلیغات</h2>
+
+ <div class="block-content">
+<div class="widget sidebar-ads">
+<div style="padding:1px;" class="widget-ads ads120">
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/3.swf">
+				</span>
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/7.swf">
+				</span>
+</div>
+</div>
+</div>
+</div>
+-->
+<div class="widget basic-list-linkdump">
+<h2>پر بازدیدترین مطالب</h2>
+<div class="block-content">
+	 <ul>
+	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>260</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>261</b><br />
+		</ul>
+</div>
+</div>
+<div class="widget big-icon-list">
+<h2>نرم افزار های مورد نیاز</h2>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>276</b><br />
+</div>
+<div class="widget basic-list-linkdump">
+<h2>بیشترین دانلودها</h2>
+<div class="block-content">
+	 <ul>
+	 	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>300</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>301</b><br />
+		</ul>
+</div>
+</div>
+<!-- 
+<div class="widget basic-list">
+<h2>مطالب تصادفی</h2>
+<div class="block-content">
+	 <ul>
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>319</b><br />
+		</ul>
+</div>
+</div>
+-->
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>332</b><br />
+<div class="widget linkroll">
+<h2>اخبار سایت</h2>
+<div class="block-content">
+<ul class="clearfix">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>361</b><br />
+</ul>
+</div>
+</div>
+<!-- 
+<div class="widget linkroll">
+<h2>تبادل لینک</h2>
+<div class="block-content">
+<ul class="clearfix">
+<li><a href="" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+-->
+</section>
+</div>
+</div>		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.013324022293091 seconds to process -->	</body>
+</html>
+
+
+<!-- This page took 0.14306282997131 seconds to process -->
+[1/3/2007 1:43:56 PM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 19: Tag header invalid
+
+[Error #801] Line 39: Tag nav invalid
+
+[Error #801] Line 71: Tag section invalid
+
+[Error #801] Line 108: Tag header invalid
+
+[Error #801] Line 109: Tag section invalid
+
+[Error #801] Line 119: Tag article invalid
+
+[Error #801] Line 120: Tag header invalid
+
+[Error #801] Line 155: Tag footer invalid
+
+[Error #801] Line 163: Tag section invalid
+
+[Error #801] Line 244: Tag footer invalid
+
+[Error #801] Line 245: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="robots" content="all" />
+		<meta name="googlebot" content="index, follow" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title></title>
+		<meta name="description" content="" />
+		<meta name="keywords" content=""/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+        <link type="text/css" rel="stylesheet" href="tabmenu.css"  />
+        <script type="text/javascript" src="js/tabmenu.js"></script>
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<!-- 
+<li><a href="/index.php/connective/about/us">درباره ما</a></li>
+-->
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="homepage"></div>
+</div>
+</div>
+
+<!-- This page took 0.012310981750488 seconds to process -->					<div id="content-wrapper">
+<!-- 
+<center>
+<div style="margin-top:20px" class="leader-board">
+<embed width="728" height="90" src="flash/2.swf" wmode="transparent"><br>
+<embed width="468" height="60" src="flash/10.swf" wmode="transparent">
+<embed width="468" height="60" style="overflow: hidden;" src="flash/12.swf">
+</div>
+<div style="border-top:1px solid #D4D4D4;width:945px;margin-top:8px;" class="divider"></div>
+</center>
+-->
+<div id="content" class="clearfix">
+<section id="main-content">
+<div class="blogroll">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>15</b><br />
+	<div class="blogroll-outer-wrapper">
+		<div class="blogroll-inner-wrapper">
+			<div class="blogroll-link-wrapper">
+					<ul>
+					<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>24</b><br />
+					<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>30</b><br />
+					</ul>
+					</div>
+			</div>
+		</div>
+	</div>
+<!-- 
+<div class="ad-468">
+<span>
+<a href="" rel="nofollow" target="_blank">
+<img width="468" height="60" src="" style="padding-bottom: 3px"></a>
+</span>
+</div>
+-->
+<center>
+<div class="download-links">
+              <span>برای مشاهده بهتر سایت از آخرین نسخه مرورگر فایر فاکس استفاده کنید!</span>
+            </div>
+            </center>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>56</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>87</b><br />
+
+<div id="related-topics">
+<div class="related-topics-wrapper">
+<header><h2>مطالب مرتبط با </h2></header>
+<section>
+<ul>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>179</b><br />
+</ul>
+</section>
+</div>
+</div>
+<div class="article-wrapper" style="-moz-transition: all 0.3s ease-out 0s;
+    background: none repeat scroll 0 0 #F5F5F5;">
+<article class="post">
+<header>
+<h1 style="font-family:b yekan;color: #A7A7A7;" >ارسال دیدگاه برای این مطلب</h1>
+</header>
+<div class="post-content">
+<center>
+<div class="addcomment">
+<form method="post" action="">
+
+	<div class="commentdata">
+		<label for="author">نام شما :</label>
+		<input type="text" class="input-comment" tabindex="1" value="" id="author" name="author">
+		<div class="clear"></div>
+
+		<label for="email">ایمیل :</label>
+		<input type="text" class="input-comment" tabindex="2" value="" id="email" name="email">
+		<div class="clear"></div>
+
+		<label for="url">وب سایت :</label>
+		<input type="text" class="input-comment" tabindex="3" value="" id="url" name="url">
+	</div>
+
+	<div class="textarea-box">
+		<label for="comment">نظر شما:</label><div class="clear"></div>
+		<textarea class="text-box" tabindex="4" id="text" name="comment"></textarea>
+	</div>
+
+	<div class="clear"></div>
+
+	<input type="submit" value="ارسال نظر " tabindex="5" id="submit" name="submit" class="comment-button">
+	<input type="hidden" value="51229" name="comment_post_ID">
+
+	</form>
+	</div>
+	</center>
+</div>
+<footer class="clearfix">
+</footer>
+</article>
+</div>
+</section>
+
+<!-- ****************************************** sidebar ****************************************** -->
+
+<section id="sidebar">
+<!-- 
+<div class="widget sidebar-ads">
+<h2>تبلیغات</h2>
+
+ <div class="block-content">
+<div class="widget sidebar-ads">
+<div style="padding:1px;" class="widget-ads ads120">
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/3.swf">
+				</span>
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/7.swf">
+				</span>
+</div>
+</div>
+</div>
+</div>
+-->
+<div class="widget basic-list-linkdump">
+<h2>پر بازدیدترین مطالب</h2>
+<div class="block-content">
+	 <ul>
+	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>260</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>261</b><br />
+		</ul>
+</div>
+</div>
+<div class="widget big-icon-list">
+<h2>نرم افزار های مورد نیاز</h2>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>276</b><br />
+</div>
+<div class="widget basic-list-linkdump">
+<h2>بیشترین دانلودها</h2>
+<div class="block-content">
+	 <ul>
+	 	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>300</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>301</b><br />
+		</ul>
+</div>
+</div>
+<!-- 
+<div class="widget basic-list">
+<h2>مطالب تصادفی</h2>
+<div class="block-content">
+	 <ul>
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>319</b><br />
+		</ul>
+</div>
+</div>
+-->
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>332</b><br />
+<div class="widget linkroll">
+<h2>اخبار سایت</h2>
+<div class="block-content">
+<ul class="clearfix">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>361</b><br />
+</ul>
+</div>
+</div>
+<!-- 
+<div class="widget linkroll">
+<h2>تبادل لینک</h2>
+<div class="block-content">
+<ul class="clearfix">
+<li><a href="" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+-->
+</section>
+</div>
+</div>		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.0097801685333252 seconds to process -->	</body>
+</html>
+
+
+<!-- This page took 0.16612792015076 seconds to process -->
+[1/3/2007 1:44:50 PM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 19: Tag header invalid
+
+[Error #801] Line 39: Tag nav invalid
+
+[Error #801] Line 71: Tag section invalid
+
+[Error #801] Line 108: Tag header invalid
+
+[Error #801] Line 109: Tag section invalid
+
+[Error #801] Line 119: Tag article invalid
+
+[Error #801] Line 120: Tag header invalid
+
+[Error #801] Line 155: Tag footer invalid
+
+[Error #801] Line 163: Tag section invalid
+
+[Error #801] Line 244: Tag footer invalid
+
+[Error #801] Line 245: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="robots" content="all" />
+		<meta name="googlebot" content="index, follow" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title></title>
+		<meta name="description" content="" />
+		<meta name="keywords" content=""/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+        <link type="text/css" rel="stylesheet" href="tabmenu.css"  />
+        <script type="text/javascript" src="js/tabmenu.js"></script>
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<!-- 
+<li><a href="/index.php/connective/about/us">درباره ما</a></li>
+-->
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="homepage"></div>
+</div>
+</div>
+
+<!-- This page took 0.056702852249146 seconds to process -->					<div id="content-wrapper">
+<!-- 
+<center>
+<div style="margin-top:20px" class="leader-board">
+<embed width="728" height="90" src="flash/2.swf" wmode="transparent"><br>
+<embed width="468" height="60" src="flash/10.swf" wmode="transparent">
+<embed width="468" height="60" style="overflow: hidden;" src="flash/12.swf">
+</div>
+<div style="border-top:1px solid #D4D4D4;width:945px;margin-top:8px;" class="divider"></div>
+</center>
+-->
+<div id="content" class="clearfix">
+<section id="main-content">
+<div class="blogroll">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>15</b><br />
+	<div class="blogroll-outer-wrapper">
+		<div class="blogroll-inner-wrapper">
+			<div class="blogroll-link-wrapper">
+					<ul>
+					<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>24</b><br />
+					<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>30</b><br />
+					</ul>
+					</div>
+			</div>
+		</div>
+	</div>
+<!-- 
+<div class="ad-468">
+<span>
+<a href="" rel="nofollow" target="_blank">
+<img width="468" height="60" src="" style="padding-bottom: 3px"></a>
+</span>
+</div>
+-->
+<center>
+<div class="download-links">
+              <span>برای مشاهده بهتر سایت از آخرین نسخه مرورگر فایر فاکس استفاده کنید!</span>
+            </div>
+            </center>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>56</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>87</b><br />
+
+<div id="related-topics">
+<div class="related-topics-wrapper">
+<header><h2>مطالب مرتبط با </h2></header>
+<section>
+<ul>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>179</b><br />
+</ul>
+</section>
+</div>
+</div>
+<div class="article-wrapper" style="-moz-transition: all 0.3s ease-out 0s;
+    background: none repeat scroll 0 0 #F5F5F5;">
+<article class="post">
+<header>
+<h1 style="font-family:b yekan;color: #A7A7A7;" >ارسال دیدگاه برای این مطلب</h1>
+</header>
+<div class="post-content">
+<center>
+<div class="addcomment">
+<form method="post" action="">
+
+	<div class="commentdata">
+		<label for="author">نام شما :</label>
+		<input type="text" class="input-comment" tabindex="1" value="" id="author" name="author">
+		<div class="clear"></div>
+
+		<label for="email">ایمیل :</label>
+		<input type="text" class="input-comment" tabindex="2" value="" id="email" name="email">
+		<div class="clear"></div>
+
+		<label for="url">وب سایت :</label>
+		<input type="text" class="input-comment" tabindex="3" value="" id="url" name="url">
+	</div>
+
+	<div class="textarea-box">
+		<label for="comment">نظر شما:</label><div class="clear"></div>
+		<textarea class="text-box" tabindex="4" id="text" name="comment"></textarea>
+	</div>
+
+	<div class="clear"></div>
+
+	<input type="submit" value="ارسال نظر " tabindex="5" id="submit" name="submit" class="comment-button">
+	<input type="hidden" value="51229" name="comment_post_ID">
+
+	</form>
+	</div>
+	</center>
+</div>
+<footer class="clearfix">
+</footer>
+</article>
+</div>
+</section>
+
+<!-- ****************************************** sidebar ****************************************** -->
+
+<section id="sidebar">
+<!-- 
+<div class="widget sidebar-ads">
+<h2>تبلیغات</h2>
+
+ <div class="block-content">
+<div class="widget sidebar-ads">
+<div style="padding:1px;" class="widget-ads ads120">
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/3.swf">
+				</span>
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/7.swf">
+				</span>
+</div>
+</div>
+</div>
+</div>
+-->
+<div class="widget basic-list-linkdump">
+<h2>پر بازدیدترین مطالب</h2>
+<div class="block-content">
+	 <ul>
+	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>260</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>261</b><br />
+		</ul>
+</div>
+</div>
+<div class="widget big-icon-list">
+<h2>نرم افزار های مورد نیاز</h2>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>276</b><br />
+</div>
+<div class="widget basic-list-linkdump">
+<h2>بیشترین دانلودها</h2>
+<div class="block-content">
+	 <ul>
+	 	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>300</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>301</b><br />
+		</ul>
+</div>
+</div>
+<!-- 
+<div class="widget basic-list">
+<h2>مطالب تصادفی</h2>
+<div class="block-content">
+	 <ul>
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>319</b><br />
+		</ul>
+</div>
+</div>
+-->
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>332</b><br />
+<div class="widget linkroll">
+<h2>اخبار سایت</h2>
+<div class="block-content">
+<ul class="clearfix">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Download\templates\ContinueSuccess.php</b> on line <b>361</b><br />
+</ul>
+</div>
+</div>
+<!-- 
+<div class="widget linkroll">
+<h2>تبادل لینک</h2>
+<div class="block-content">
+<ul class="clearfix">
+<li><a href="" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+-->
+</section>
+</div>
+</div>		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.04230785369873 seconds to process -->	</body>
+</html>
+
+
+<!-- This page took 0.26454901695251 seconds to process -->
+[1/3/2007 2:26:27 PM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 19: Tag header invalid
+
+[Error #801] Line 39: Tag nav invalid
+
+[Error #801] Line 71: Tag section invalid
+
+[Error #76] Line 150: Unexpected end tag : div
+
+[Error #76] Line 151: Unexpected end tag : div
+
+[Error #801] Line 152: Tag footer invalid
+
+[Error #801] Line 153: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="robots" content="all" />
+		<meta name="googlebot" content="index, follow" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title>با موفقیت ارسال شد</title>
+		<meta name="description" content="" />
+		<meta name="keywords" content=""/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+        <link type="text/css" rel="stylesheet" href="tabmenu.css"  />
+        <script type="text/javascript" src="js/tabmenu.js"></script>
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<!-- 
+<li><a href="/index.php/connective/about/us">درباره ما</a></li>
+-->
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="homepage"></div>
+</div>
+</div>
+
+<!-- This page took 0.12259101867676 seconds to process -->					<div id="content-wrapper">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateSuccess.php</b> on line <b>2</b><br />
+<center>
+<div class="download-links">
+              <span>دیدگاه شما با موفقیت ثبت شد.با تشکر</span>
+            </div>
+            </center>
+</div>
+
+<!-- ****************************************** sidebar ****************************************** -->
+
+<section id="sidebar">
+<!-- 
+<div class="widget sidebar-ads">
+<h2>تبلیغات</h2>
+
+ <div class="block-content">
+<div class="widget sidebar-ads">
+<div style="padding:1px;" class="widget-ads ads120">
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/3.swf">
+				</span>
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/7.swf">
+				</span>
+</div>
+</div>
+</div>
+</div>
+-->
+<div class="widget basic-list-linkdump">
+<h2>پر بازدیدترین مطالب</h2>
+<div class="block-content">
+	 <ul>
+	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateSuccess.php</b> on line <b>65</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateSuccess.php</b> on line <b>66</b><br />
+		</ul>
+</div>
+</div>
+<div class="widget big-icon-list">
+<h2>نرم افزار های مورد نیاز</h2>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateSuccess.php</b> on line <b>81</b><br />
+</div>
+<div class="widget basic-list-linkdump">
+<h2>بیشترین دانلودها</h2>
+<div class="block-content">
+	 <ul>
+	 	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateSuccess.php</b> on line <b>105</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateSuccess.php</b> on line <b>106</b><br />
+		</ul>
+</div>
+</div>
+<!-- 
+<div class="widget basic-list">
+<h2>مطالب تصادفی</h2>
+<div class="block-content">
+	 <ul>
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateSuccess.php</b> on line <b>124</b><br />
+		</ul>
+</div>
+</div>
+-->
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateSuccess.php</b> on line <b>137</b><br />
+<div class="widget linkroll">
+<h2>اخبار سایت</h2>
+<div class="block-content">
+<ul class="clearfix">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateSuccess.php</b> on line <b>166</b><br />
+</ul>
+</div>
+</div>
+<!-- 
+<div class="widget linkroll">
+<h2>تبادل لینک</h2>
+<div class="block-content">
+<ul class="clearfix">
+<li><a href="" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+-->
+</section>
+</div>
+</div>		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.039638042449951 seconds to process -->	</body>
+</html>
+
+
+<!-- This page took 0.5307149887085 seconds to process -->
+[1/3/2007 2:27:31 PM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 19: Tag header invalid
+
+[Error #801] Line 39: Tag nav invalid
+
+[Error #801] Line 71: Tag section invalid
+
+[Error #76] Line 150: Unexpected end tag : div
+
+[Error #76] Line 151: Unexpected end tag : div
+
+[Error #801] Line 152: Tag footer invalid
+
+[Error #801] Line 153: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="robots" content="all" />
+		<meta name="googlebot" content="index, follow" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title>خطا</title>
+		<meta name="description" content="" />
+		<meta name="keywords" content=""/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+        <link type="text/css" rel="stylesheet" href="tabmenu.css"  />
+        <script type="text/javascript" src="js/tabmenu.js"></script>
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<!-- 
+<li><a href="/index.php/connective/about/us">درباره ما</a></li>
+-->
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="homepage"></div>
+</div>
+</div>
+
+<!-- This page took 0.11453080177307 seconds to process -->					<div id="content-wrapper">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>2</b><br />
+<center>
+<div class="download-links">
+              <span>دیدگاه شما شما با خطا روبه رو شد</span>
+            </div>
+            </center>
+</div>
+
+<!-- ****************************************** sidebar ****************************************** -->
+
+<section id="sidebar">
+<!-- 
+<div class="widget sidebar-ads">
+<h2>تبلیغات</h2>
+
+ <div class="block-content">
+<div class="widget sidebar-ads">
+<div style="padding:1px;" class="widget-ads ads120">
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/3.swf">
+				</span>
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/7.swf">
+				</span>
+</div>
+</div>
+</div>
+</div>
+-->
+<div class="widget basic-list-linkdump">
+<h2>پر بازدیدترین مطالب</h2>
+<div class="block-content">
+	 <ul>
+	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>65</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>66</b><br />
+		</ul>
+</div>
+</div>
+<div class="widget big-icon-list">
+<h2>نرم افزار های مورد نیاز</h2>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>81</b><br />
+</div>
+<div class="widget basic-list-linkdump">
+<h2>بیشترین دانلودها</h2>
+<div class="block-content">
+	 <ul>
+	 	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>105</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>106</b><br />
+		</ul>
+</div>
+</div>
+<!-- 
+<div class="widget basic-list">
+<h2>مطالب تصادفی</h2>
+<div class="block-content">
+	 <ul>
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>124</b><br />
+		</ul>
+</div>
+</div>
+-->
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>137</b><br />
+<div class="widget linkroll">
+<h2>اخبار سایت</h2>
+<div class="block-content">
+<ul class="clearfix">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>166</b><br />
+</ul>
+</div>
+</div>
+<!-- 
+<div class="widget linkroll">
+<h2>تبادل لینک</h2>
+<div class="block-content">
+<ul class="clearfix">
+<li><a href="" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+-->
+</section>
+</div>
+</div>		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.05976390838623 seconds to process -->	</body>
+</html>
+
+
+<!-- This page took 0.48447394371033 seconds to process -->
+[1/3/2007 2:33:09 PM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 19: Tag header invalid
+
+[Error #801] Line 39: Tag nav invalid
+
+[Error #801] Line 71: Tag section invalid
+
+[Error #76] Line 150: Unexpected end tag : div
+
+[Error #76] Line 151: Unexpected end tag : div
+
+[Error #801] Line 152: Tag footer invalid
+
+[Error #801] Line 153: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="robots" content="all" />
+		<meta name="googlebot" content="index, follow" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title>خطا</title>
+		<meta name="description" content="" />
+		<meta name="keywords" content=""/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+        <link type="text/css" rel="stylesheet" href="tabmenu.css"  />
+        <script type="text/javascript" src="js/tabmenu.js"></script>
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<!-- 
+<li><a href="/index.php/connective/about/us">درباره ما</a></li>
+-->
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="homepage"></div>
+</div>
+</div>
+
+<!-- This page took 0.12451910972595 seconds to process -->					<div id="content-wrapper">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>2</b><br />
+<center>
+<div class="download-links">
+              <span>دیدگاه شما شما با خطا روبه رو شد</span>
+            </div>
+            </center>
+</div>
+
+<!-- ****************************************** sidebar ****************************************** -->
+
+<section id="sidebar">
+<!-- 
+<div class="widget sidebar-ads">
+<h2>تبلیغات</h2>
+
+ <div class="block-content">
+<div class="widget sidebar-ads">
+<div style="padding:1px;" class="widget-ads ads120">
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/3.swf">
+				</span>
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/7.swf">
+				</span>
+</div>
+</div>
+</div>
+</div>
+-->
+<div class="widget basic-list-linkdump">
+<h2>پر بازدیدترین مطالب</h2>
+<div class="block-content">
+	 <ul>
+	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>65</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>66</b><br />
+		</ul>
+</div>
+</div>
+<div class="widget big-icon-list">
+<h2>نرم افزار های مورد نیاز</h2>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>81</b><br />
+</div>
+<div class="widget basic-list-linkdump">
+<h2>بیشترین دانلودها</h2>
+<div class="block-content">
+	 <ul>
+	 	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>105</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>106</b><br />
+		</ul>
+</div>
+</div>
+<!-- 
+<div class="widget basic-list">
+<h2>مطالب تصادفی</h2>
+<div class="block-content">
+	 <ul>
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>124</b><br />
+		</ul>
+</div>
+</div>
+-->
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>137</b><br />
+<div class="widget linkroll">
+<h2>اخبار سایت</h2>
+<div class="block-content">
+<ul class="clearfix">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>166</b><br />
+</ul>
+</div>
+</div>
+<!-- 
+<div class="widget linkroll">
+<h2>تبادل لینک</h2>
+<div class="block-content">
+<ul class="clearfix">
+<li><a href="" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+-->
+</section>
+</div>
+</div>		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.043561220169067 seconds to process -->	</body>
+</html>
+
+
+<!-- This page took 0.52259802818298 seconds to process -->
+[1/3/2007 2:34:39 PM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 19: Tag header invalid
+
+[Error #801] Line 39: Tag nav invalid
+
+[Error #801] Line 71: Tag section invalid
+
+[Error #76] Line 150: Unexpected end tag : div
+
+[Error #76] Line 151: Unexpected end tag : div
+
+[Error #801] Line 152: Tag footer invalid
+
+[Error #801] Line 153: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="robots" content="all" />
+		<meta name="googlebot" content="index, follow" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title>خطا</title>
+		<meta name="description" content="" />
+		<meta name="keywords" content=""/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+        <link type="text/css" rel="stylesheet" href="tabmenu.css"  />
+        <script type="text/javascript" src="js/tabmenu.js"></script>
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<!-- 
+<li><a href="/index.php/connective/about/us">درباره ما</a></li>
+-->
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="homepage"></div>
+</div>
+</div>
+
+<!-- This page took 0.013742923736572 seconds to process -->					<div id="content-wrapper">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>2</b><br />
+<center>
+<div class="download-links">
+              <span>دیدگاه شما شما با خطا روبه رو شد</span>
+            </div>
+            </center>
+</div>
+
+<!-- ****************************************** sidebar ****************************************** -->
+
+<section id="sidebar">
+<!-- 
+<div class="widget sidebar-ads">
+<h2>تبلیغات</h2>
+
+ <div class="block-content">
+<div class="widget sidebar-ads">
+<div style="padding:1px;" class="widget-ads ads120">
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/3.swf">
+				</span>
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/7.swf">
+				</span>
+</div>
+</div>
+</div>
+</div>
+-->
+<div class="widget basic-list-linkdump">
+<h2>پر بازدیدترین مطالب</h2>
+<div class="block-content">
+	 <ul>
+	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>65</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>66</b><br />
+		</ul>
+</div>
+</div>
+<div class="widget big-icon-list">
+<h2>نرم افزار های مورد نیاز</h2>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>81</b><br />
+</div>
+<div class="widget basic-list-linkdump">
+<h2>بیشترین دانلودها</h2>
+<div class="block-content">
+	 <ul>
+	 	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>105</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>106</b><br />
+		</ul>
+</div>
+</div>
+<!-- 
+<div class="widget basic-list">
+<h2>مطالب تصادفی</h2>
+<div class="block-content">
+	 <ul>
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>124</b><br />
+		</ul>
+</div>
+</div>
+-->
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>137</b><br />
+<div class="widget linkroll">
+<h2>اخبار سایت</h2>
+<div class="block-content">
+<ul class="clearfix">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>166</b><br />
+</ul>
+</div>
+</div>
+<!-- 
+<div class="widget linkroll">
+<h2>تبادل لینک</h2>
+<div class="block-content">
+<ul class="clearfix">
+<li><a href="" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+-->
+</section>
+</div>
+</div>		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.017056941986084 seconds to process -->	</body>
+</html>
+
+
+<!-- This page took 0.29645991325378 seconds to process -->
+[1/3/2007 2:35:58 PM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 19: Tag header invalid
+
+[Error #801] Line 39: Tag nav invalid
+
+[Error #801] Line 71: Tag section invalid
+
+[Error #76] Line 150: Unexpected end tag : div
+
+[Error #76] Line 151: Unexpected end tag : div
+
+[Error #801] Line 152: Tag footer invalid
+
+[Error #801] Line 153: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="robots" content="all" />
+		<meta name="googlebot" content="index, follow" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title>خطا</title>
+		<meta name="description" content="" />
+		<meta name="keywords" content=""/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+        <link type="text/css" rel="stylesheet" href="tabmenu.css"  />
+        <script type="text/javascript" src="js/tabmenu.js"></script>
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<!-- 
+<li><a href="/index.php/connective/about/us">درباره ما</a></li>
+-->
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="homepage"></div>
+</div>
+</div>
+
+<!-- This page took 0.011928081512451 seconds to process -->					<div id="content-wrapper">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>2</b><br />
+<center>
+<div class="download-links">
+              <span>دیدگاه شما شما با خطا روبه رو شد</span>
+            </div>
+            </center>
+</div>
+
+<!-- ****************************************** sidebar ****************************************** -->
+
+<section id="sidebar">
+<!-- 
+<div class="widget sidebar-ads">
+<h2>تبلیغات</h2>
+
+ <div class="block-content">
+<div class="widget sidebar-ads">
+<div style="padding:1px;" class="widget-ads ads120">
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/3.swf">
+				</span>
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/7.swf">
+				</span>
+</div>
+</div>
+</div>
+</div>
+-->
+<div class="widget basic-list-linkdump">
+<h2>پر بازدیدترین مطالب</h2>
+<div class="block-content">
+	 <ul>
+	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>65</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>66</b><br />
+		</ul>
+</div>
+</div>
+<div class="widget big-icon-list">
+<h2>نرم افزار های مورد نیاز</h2>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>81</b><br />
+</div>
+<div class="widget basic-list-linkdump">
+<h2>بیشترین دانلودها</h2>
+<div class="block-content">
+	 <ul>
+	 	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>105</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>106</b><br />
+		</ul>
+</div>
+</div>
+<!-- 
+<div class="widget basic-list">
+<h2>مطالب تصادفی</h2>
+<div class="block-content">
+	 <ul>
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>124</b><br />
+		</ul>
+</div>
+</div>
+-->
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>137</b><br />
+<div class="widget linkroll">
+<h2>اخبار سایت</h2>
+<div class="block-content">
+<ul class="clearfix">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>166</b><br />
+</ul>
+</div>
+</div>
+<!-- 
+<div class="widget linkroll">
+<h2>تبادل لینک</h2>
+<div class="block-content">
+<ul class="clearfix">
+<li><a href="" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+-->
+</section>
+</div>
+</div>		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.0086569786071777 seconds to process -->	</body>
+</html>
+
+
+<!-- This page took 0.24373817443848 seconds to process -->
+[1/3/2007 2:42:39 PM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 19: Tag header invalid
+
+[Error #801] Line 39: Tag nav invalid
+
+[Error #801] Line 71: Tag section invalid
+
+[Error #76] Line 150: Unexpected end tag : div
+
+[Error #76] Line 151: Unexpected end tag : div
+
+[Error #801] Line 152: Tag footer invalid
+
+[Error #801] Line 153: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="robots" content="all" />
+		<meta name="googlebot" content="index, follow" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title>خطا</title>
+		<meta name="description" content="" />
+		<meta name="keywords" content=""/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+        <link type="text/css" rel="stylesheet" href="tabmenu.css"  />
+        <script type="text/javascript" src="js/tabmenu.js"></script>
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<!-- 
+<li><a href="/index.php/connective/about/us">درباره ما</a></li>
+-->
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="homepage"></div>
+</div>
+</div>
+
+<!-- This page took 0.093441009521484 seconds to process -->					<div id="content-wrapper">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>2</b><br />
+<center>
+<div class="download-links">
+              <span>دیدگاه شما شما با خطا روبه رو شد</span>
+            </div>
+            </center>
+</div>
+
+<!-- ****************************************** sidebar ****************************************** -->
+
+<section id="sidebar">
+<!-- 
+<div class="widget sidebar-ads">
+<h2>تبلیغات</h2>
+
+ <div class="block-content">
+<div class="widget sidebar-ads">
+<div style="padding:1px;" class="widget-ads ads120">
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/3.swf">
+				</span>
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/7.swf">
+				</span>
+</div>
+</div>
+</div>
+</div>
+-->
+<div class="widget basic-list-linkdump">
+<h2>پر بازدیدترین مطالب</h2>
+<div class="block-content">
+	 <ul>
+	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>65</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>66</b><br />
+		</ul>
+</div>
+</div>
+<div class="widget big-icon-list">
+<h2>نرم افزار های مورد نیاز</h2>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>81</b><br />
+</div>
+<div class="widget basic-list-linkdump">
+<h2>بیشترین دانلودها</h2>
+<div class="block-content">
+	 <ul>
+	 	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>105</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>106</b><br />
+		</ul>
+</div>
+</div>
+<!-- 
+<div class="widget basic-list">
+<h2>مطالب تصادفی</h2>
+<div class="block-content">
+	 <ul>
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>124</b><br />
+		</ul>
+</div>
+</div>
+-->
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>137</b><br />
+<div class="widget linkroll">
+<h2>اخبار سایت</h2>
+<div class="block-content">
+<ul class="clearfix">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>166</b><br />
+</ul>
+</div>
+</div>
+<!-- 
+<div class="widget linkroll">
+<h2>تبادل لینک</h2>
+<div class="block-content">
+<ul class="clearfix">
+<li><a href="" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+-->
+</section>
+</div>
+</div>		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.0430908203125 seconds to process -->	</body>
+</html>
+
+
+<!-- This page took 0.38370800018311 seconds to process -->
+[1/3/2007 2:47:52 PM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 18: Tag header invalid
+
+[Error #801] Line 38: Tag nav invalid
+
+[Error #801] Line 70: Tag section invalid
+
+[Error #76] Line 149: Unexpected end tag : div
+
+[Error #76] Line 150: Unexpected end tag : div
+
+[Error #801] Line 151: Tag footer invalid
+
+[Error #801] Line 152: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name=revisit-after content="1 days" />
+		<meta name="robots" content="all" />
+		<meta name="googlebot" content="index, follow" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title>دانلود وار</title>
+		<meta name="description" content="با دانلود وار بروز باشید " />
+		<meta name="keywords" content="دانلود, لینک مستقیم, نرم افزار, موبایل, بازی, کتاب, گرافیک, بازی, اموزش, مکینتاش, موزیک, فیلم, انتی ویروس, فتوشاپ, ویندوز, مستند, انیمیشن, فونت فارسی, دیکشنری"/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="/index.php/site-news/1">اخبار سایت</a></li>
+<!-- 
+<li><a href="/index.php/connective/about/us">درباره ما</a></li>
+-->
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="homepage"></div>
+</div>
+</div>
+
+<!-- This page took 0.1592378616333 seconds to process -->					<div id="content-wrapper">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>2</b><br />
+<center>
+<div class="download-links">
+              <span>دیدگاه شما شما با خطا روبه رو شد</span>
+            </div>
+            </center>
+</div>
+
+<!-- ****************************************** sidebar ****************************************** -->
+
+<section id="sidebar">
+<!-- 
+<div class="widget sidebar-ads">
+<h2>تبلیغات</h2>
+
+ <div class="block-content">
+<div class="widget sidebar-ads">
+<div style="padding:1px;" class="widget-ads ads120">
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/3.swf">
+				</span>
+				<span class="box clear-fix">
+<embed width="120" height="240" style="overflow: hidden;" src="flash/7.swf">
+				</span>
+</div>
+</div>
+</div>
+</div>
+-->
+<div class="widget basic-list-linkdump">
+<h2>پر بازدیدترین مطالب</h2>
+<div class="block-content">
+	 <ul>
+	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>65</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>66</b><br />
+		</ul>
+</div>
+</div>
+<div class="widget big-icon-list">
+<h2>نرم افزار های مورد نیاز</h2>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>81</b><br />
+</div>
+<div class="widget basic-list-linkdump">
+<h2>بیشترین دانلودها</h2>
+<div class="block-content">
+	 <ul>
+	 	 <br />
+<b>Warning</b>:  rsort() expects parameter 1 to be array, null given in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>105</b><br />
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>106</b><br />
+		</ul>
+</div>
+</div>
+<!-- 
+<div class="widget basic-list">
+<h2>مطالب تصادفی</h2>
+<div class="block-content">
+	 <ul>
+   		 <br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>124</b><br />
+		</ul>
+</div>
+</div>
+-->
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>137</b><br />
+<div class="widget linkroll">
+<h2>اخبار سایت</h2>
+<div class="block-content">
+<ul class="clearfix">
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Connective\templates\Comment\CreateError.php</b> on line <b>166</b><br />
+</ul>
+</div>
+</div>
+<!-- 
+<div class="widget linkroll">
+<h2>تبادل لینک</h2>
+<div class="block-content">
+<ul class="clearfix">
+<li><a href="" target="_blank"></a></li>
+</ul>
+</div>
+</div>
+-->
+</section>
+</div>
+</div>		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.064983129501343 seconds to process -->		
+	</body>
+</html>
+
+
+<!-- This page took 0.48675394058228 seconds to process -->

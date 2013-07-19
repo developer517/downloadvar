@@ -1,0 +1,477 @@
+[1/2/2007 4:49:33 AM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 15: Tag header invalid
+
+[Error #801] Line 35: Tag nav invalid
+
+[Error #801] Line 54: Tag footer invalid
+
+[Error #801] Line 55: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="googlebot" content="noindex, nofollow" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title>Contact.Us</title>
+		<meta name="description" content="با دانلود وار بروز باشید " />
+		<meta name="keywords" content="دانلود, لینک مستقیم, نرم افزار, موبایل, بازی, کتاب, گرافیک, بازی, اموزش, مکینتاش, موزیک, فیلم, انتی ویروس, فتوشاپ, ویندوز, مستند, انیمیشن, فونت فارسی, دیکشنری"/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="#">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="#">اخبار سایت</a></li>
+<li><a href="#">درباره ما</a></li>
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="mobile"></div>
+</div>
+</div>
+
+<!-- This page took 0.056366205215454 seconds to process -->					پیام شما با موفقیت ارسال شد		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.024880886077881 seconds to process -->		
+	</body>
+</html>
+
+
+<!-- This page took 0.31020998954773 seconds to process -->
+[1/2/2007 4:50:23 AM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 15: Tag header invalid
+
+[Error #801] Line 35: Tag nav invalid
+
+[Error #801] Line 54: Tag footer invalid
+
+[Error #801] Line 55: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="googlebot" content="noindex, nofollow" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title>Contact.Us</title>
+		<meta name="description" content="با دانلود وار بروز باشید " />
+		<meta name="keywords" content="دانلود, لینک مستقیم, نرم افزار, موبایل, بازی, کتاب, گرافیک, بازی, اموزش, مکینتاش, موزیک, فیلم, انتی ویروس, فتوشاپ, ویندوز, مستند, انیمیشن, فونت فارسی, دیکشنری"/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="#">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="#">اخبار سایت</a></li>
+<li><a href="#">درباره ما</a></li>
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="mobile"></div>
+</div>
+</div>
+
+<!-- This page took 0.055420160293579 seconds to process -->					پیام شما با موفقیت ارسال شد		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.025926113128662 seconds to process -->		
+	</body>
+</html>
+
+
+<!-- This page took 0.2958881855011 seconds to process -->
+[1/2/2007 4:57:22 AM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 17: Tag header invalid
+
+[Error #801] Line 37: Tag nav invalid
+
+[Error #801] Line 56: Tag footer invalid
+
+[Error #801] Line 57: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="robots" content="all" />
+		<meta name="googlebot" content="index, follow" />
+		<meta http-equiv="imagetoolbar" content="no" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title>دانلود  با موفقیت ارسال شد</title>
+		<meta name="description" content="" />
+		<meta name="keywords" content=" "/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="#">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="#">اخبار سایت</a></li>
+<li><a href="#">درباره ما</a></li>
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="mobile"></div>
+</div>
+</div>
+
+<!-- This page took 0.057250022888184 seconds to process -->					پیام شما با موفقیت ارسال شد		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.025014877319336 seconds to process -->		
+	</body>
+</html>
+
+
+<!-- This page took 0.28079009056091 seconds to process -->
+[1/2/2007 4:59:37 AM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 15: Tag header invalid
+
+[Error #801] Line 35: Tag nav invalid
+
+[Error #801] Line 54: Tag footer invalid
+
+[Error #801] Line 55: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="googlebot" content="noindex, nofollow" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title>با موفقیت ارسال شد</title>
+		<meta name="description" content="با دانلود وار بروز باشید " />
+		<meta name="keywords" content="دانلود, لینک مستقیم, نرم افزار, موبایل, بازی, کتاب, گرافیک, بازی, اموزش, مکینتاش, موزیک, فیلم, انتی ویروس, فتوشاپ, ویندوز, مستند, انیمیشن, فونت فارسی, دیکشنری"/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="#">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="#">اخبار سایت</a></li>
+<li><a href="#">درباره ما</a></li>
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="mobile"></div>
+</div>
+</div>
+
+<!-- This page took 0.055178165435791 seconds to process -->					پیام شما با موفقیت ارسال شد		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.025163173675537 seconds to process -->		
+	</body>
+</html>
+
+
+<!-- This page took 0.2746729850769 seconds to process -->
+[1/2/2007 5:02:10 AM] Form Population Filter encountered the following errors while parsing the document:
+
+[Error #801] Line 15: Tag header invalid
+
+[Error #801] Line 35: Tag nav invalid
+
+[Error #801] Line 54: Tag footer invalid
+
+[Error #801] Line 55: Tag section invalid
+
+
+Non-fatal errors are typically recoverable; you may set the 'ignore_parse_errors' configuration parameter to LIBXML_ERR_WARNING or LIBXML_ERR_ERROR (default) to suppress them.
+If you set 'ignore_parse_errors' to LIBXML_ERR_FATAL (recommended for production), Form Population Filter will silently abort execution in the event of fatal errors.
+Regardless of the setting, all errors encountered will be logged.
+
+Response content:
+
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<meta name="googlebot" content="noindex, nofollow" />
+		<base href="http://127.0.0.2/" />
+		<link rel="shortcut icon" href="images/124.gif" type="image/x-icon"/>
+		<title>با موفقیت ارسال شد</title>
+		<meta name="description" content="با دانلود وار بروز باشید " />
+		<meta name="keywords" content="دانلود, لینک مستقیم, نرم افزار, موبایل, بازی, کتاب, گرافیک, بازی, اموزش, مکینتاش, موزیک, فیلم, انتی ویروس, فتوشاپ, ویندوز, مستند, انیمیشن, فونت فارسی, دیکشنری"/>
+		<link type="text/css" rel="stylesheet" href="style.css"  />
+	</head>
+	<body class="homepage">
+		<div id="header-wrapper">
+<header class="clearfix" id="header">
+<h1><a accesskey="1" href="http://p30download.com/">دانلود</a></h1>
+<div class="header-slogan">
+</div>
+
+<ul class="clearfix">
+<li><a href="#">اخبار سایت</a></li>
+<li><a target="_blank" href="http://downloadvar.ir/sitemap.xml">نقشه سایت</a></li>
+<li class="last"><a href="/index.php/connective/cantact/with-us">تماس با ما</a></li></ul>
+<div class="search">
+<form target="_blank" method="get" action="https://www.google.com/search">
+<input type="hidden" name="domains" value="downloadvar.ir">
+<input type="hidden" name="sitesearch" value="downloadvar.ir">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="hl" value="fa">
+<input id="query" name="q" onblur="if (this.value == '') {this.value = 'جستجوی کلمه مورد نظر...';}" onfocus="if (this.value == 'جستجوی کلمه مورد نظر...') {this.value = '';}" value="جستجوی کلمه مورد نظر..." size="255" type="text" class="search-box">
+<input type="image" class="search-btn" src="images/search.png" alt="جستجو"></form></div>
+</header>
+<div id="nav-wrapper">
+<nav class="clearfix">
+<ul class="clearfix">
+<li class="mobile">
+<ul class="clearfix" style="top: 29px;">
+<li><a href="/index.php/">صفحه اصلی</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\HeaderSuccess.php</b> on line <b>27</b><br />
+<li><a href="#">اخبار سایت</a></li>
+<li><a href="#">درباره ما</a></li>
+</ul>
+</li>
+</ul>
+
+</nav>
+<div class="mobile"></div>
+</div>
+</div>
+
+<!-- This page took 0.055835008621216 seconds to process -->					پیام شما با موفقیت ارسال شد		<div id="footer-wrapper">
+<footer>
+<section>
+<center>
+<ul class="main-repeated-links clearfix">
+<li class="homepage"><a href="/index.php/">خانه</a></li>
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\workspace\downloadvar\app\modules\Context\templates\FooterSuccess.php</b> on line <b>7</b><br />
+</ul>
+</center>
+</section>
+</footer>
+
+<div class="copyright-wrapper">
+<div id="copyright">
+<p>Copyright © 2012-2013 | کلیه حقوق این سایت برای سایت دانلود وار محفوظ است</p>
+ </div>
+ </div>
+ </div>
+
+<!-- This page took 0.026875972747803 seconds to process -->		
+	</body>
+</html>
+
+
+<!-- This page took 0.2801878452301 seconds to process -->

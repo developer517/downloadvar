@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<database name="downloa3_downloadvar" defaultIdMethod="native" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://xsd.propelorm.org/1.6/database.xsd">
+
+<!-- user -->
+<table name="user">
+<column name="id" type="INTEGER" required="true" primaryKey="true" autoIncrement="true"/>
+<column name="name" type="VARCHAR" size="60" required="true" />
+<column name="username" type="VARCHAR" size="50" required="true" />
+<column name="password" type="VARCHAR" size="50" required="true" />
+<column name="email" type="VARCHAR" size="60" required="false" />
+<column name="mobile" type="VARCHAR" size="15" required="false" />
+<unique name="name">
+  <unique-column name="name"/>
+</unique>
+<unique name="username">
+  <unique-column name="username"/>
+</unique>
+</table>
+  
+ <!-- matter --> 
+ <table name="matter">
+<column name="id" type="INTEGER" required="true" primaryKey="true" autoIncrement="true"/>
+<column name="main_subject" type="VARCHAR" size="255" required="true" />
+<column name="short_subject" type="VARCHAR" size="100" required="true" />
+<column name="long_desc" type="LONGVARCHAR" required="true" />
+<column name="short_desc" type="LONGVARCHAR" required="false" />
+<column name="english_desc" type="LONGVARCHAR" required="false" />
+<column name="help_desc" type="LONGVARCHAR" required="false" />
+<column name="download_link" type="LONGVARCHAR" required="true" />
+<column name="tag_keywords" type="VARCHAR" size="255" required="false" />
+<column name="tag_desc" type="VARCHAR" size="255" required="false" />
+<column name="view_count" type="INTEGER" required="false" />
+<column name="order" type="INTEGER" required="true" />
+<column name="need" type="INTEGER" required="true" />
+<column name="spicial" type="INTEGER" required="true" />
+<column name="download_count" type="INTEGER" required="false"/>
+<column name="date" type="VARCHAR" required="true" />
+<column name="publisher" type="INTEGER" required="true" />
+<column name="user_id" type="INTEGER" required="true" />
+<column name="third_category_id" type="INTEGER" required="true" />
+<foreign-key foreignTable="user" onDelete="setnull" onUpdate="cascade">
+  		<reference local="user_id" foreign="id"/>
+</foreign-key>
+<foreign-key foreignTable="third_category" onDelete="setnull" onUpdate="cascade">
+  		<reference local="third_category_id" foreign="id"/>
+</foreign-key>
+</table>
+
+<!-- This Table For Create Category In Menu -->
+<table name="one_category">
+<column name="id" type="INTEGER" required="true" primaryKey="true" autoIncrement="true"/>
+<column name="persian_name" type="VARCHAR" size="50" required="true"/>
+<column name="english_name" type="VARCHAR" size="50" required="true" />
+<column name="description" type="VARCHAR" size="255" required="true" />
+<column name="tag" type="VARCHAR" size="255" required="true" />
+	<unique name="persian_name">
+  		<unique-column name="persian_name"/>
+  	</unique>
+  		<unique name="englishname">
+  		<unique-column name="english_name"/>
+  	</unique>
+</table>
+
+<!-- This Table For Create Category In Menu With Two Depth -->
+<table name="second_category">
+<column name="id" type="INTEGER" required="true" primaryKey="true" autoIncrement="true"/>
+<column name="persian_name" type="VARCHAR" size="50" required="true"/>
+<column name="english_name" type="VARCHAR" size="50" required="true" />
+<column name="description" type="VARCHAR" size="255" required="true" />
+<column name="tag" type="VARCHAR" size="255" required="true" />
+<column name="one_category_id" type="INTEGER" required="true" />
+<foreign-key foreignTable="one_category" onDelete="setnull" onUpdate="cascade">
+  		<reference local="one_category_id" foreign="id"/>
+</foreign-key>
+	<unique name="persian_name">
+  		<unique-column name="persian_name"/>
+  	</unique>
+  		<unique name="englishname">
+  		<unique-column name="english_name"/>
+  	</unique>
+</table>
+
+
+<!-- This Table For Create Category In Menu With Tree Depth -->
+<table name="third_category">
+<column name="id" type="INTEGER" required="true" primaryKey="true" autoIncrement="true"/>
+<column name="persian_name" type="VARCHAR" size="50" required="true"/>
+<column name="english_name" type="VARCHAR" size="50" required="true" />
+<column name="description" type="VARCHAR" size="255" required="true" />
+<column name="tag" type="VARCHAR" size="255" required="true" />
+<column name="second_category_id" type="INTEGER" required="true" />
+<foreign-key foreignTable="second_category" onDelete="setnull" onUpdate="cascade">
+  		<reference local="second_category_id" foreign="id"/>
+</foreign-key>
+</table>
+
+<!-- news website -->  
+<table name="news">
+<column name="id" type="INTEGER" required="true" primaryKey="true" autoIncrement="true" />
+<column name="subject" type="VARCHAR" size="255" required="true" />
+<column name="order" type="INTEGER" required="true" />
+<column name="date" type="VARCHAR" required="true" />
+<column name="desc" type="LONGVARCHAR"  required="true" />
+</table>  
+
+<!-- connect with admin -->
+<table name="tiket">
+  	<column name="id" type="INTEGER" required="true" primaryKey="true" autoIncrement="true"/>
+  	<column name="name" type="VARCHAR"  required="true" />
+  	<column name="email" type="VARCHAR"  required="true" />
+  	<column name="desc" type="LONGVARCHAR" required="true" />
+  	<column name="category" type="VARCHAR"  required="true" />
+  	<column name="order" type="INTEGER" required="true" />
+  	<column name="action" type="INTEGER" required="false" />
+  	<column name="increase" type="INTEGER" required="true" />
+  	<column name="date" type="VARCHAR" required="true" />
+</table>
+
+<!-- comment -->
+<table name="comment">
+<column name="id" type="INTEGER" required="true" primaryKey="true" autoIncrement="true"/>
+<column name="name" type="VARCHAR" size="50" required="true" />
+<column name="email" type="VARCHAR" size="60" required="false" />
+<column name="website" type="VARCHAR" size="100" required="false" />
+<column name="date" type="VARCHAR" required="true" />
+<column name="desc" type="LONGVARCHAR" required="true" />
+<column name="action" type="INTEGER" required="true" />
+<column name="matter_id" type="INTEGER" required="true" />
+<foreign-key foreignTable="matter" onDelete="setnull" onUpdate="cascade">
+  		<reference local="matter_id" foreign="id"/>
+</foreign-key>
+ </table>
+
+ <!-- faq  -->
+  <table name="gap">
+  <column name="id" type="INTEGER" required="true" primaryKey="true" autoIncrement="true"/>
+  <column name="desc" type="LONGVARCHAR" required="true" />
+  <column name="date" type="VARCHAR" required="true" />
+  <column name="comment_id" type="INTEGER" required="true" />
+<foreign-key foreignTable="comment" onDelete="setnull" onUpdate="cascade">
+  		<reference local="comment_id" foreign="id"/>
+</foreign-key>
+ </table>
+</database>

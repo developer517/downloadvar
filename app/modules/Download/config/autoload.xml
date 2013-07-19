@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ae:configurations xmlns="http://agavi.org/agavi/config/parts/autoload/1.0" xmlns:ae="http://agavi.org/agavi/config/global/envelope/1.0">
+	
+	<ae:configuration>
+		
+		<autoload name="downloadvarDownloadBaseAction">%core.module_dir%/Download/lib/action/downloadvarDownloadBaseAction.class.php</autoload>
+		<autoload name="downloadvarDownloadBaseModel">%core.module_dir%/Download/lib/model/downloadvarDownloadBaseModel.class.php</autoload>
+		<autoload name="downloadvarDownloadBaseView">%core.module_dir%/Download/lib/view/downloadvarDownloadBaseView.class.php</autoload>
+		
+	</ae:configuration>
+	
+</ae:configurations>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ae:configurations
+	xmlns="http://agavi.org/agavi/config/parts/validators/1.0"
+	xmlns:ae="http://agavi.org/agavi/config/global/envelope/1.0"
+	parent="%core.module_dir%/News/config/validators.xml"
+>
+	
+	<ae:configuration>
+		<validators method="read">
+		<validator class="number">
+			<arguments>
+				<argument>id</argument>
+			</arguments>
+		</validator>
+		</validators>
+		<validators method="write">
+				<validator class="number">
+			<arguments>
+				<argument>id</argument>
+			</arguments>
+		</validator>
+		 	<validator class="string">
+        		<arguments>
+          			<argument>main_subject</argument>
+        		</arguments>
+        		<ae:parameters>
+         			 <ae:parameter name="required">true</ae:parameter>
+          		</ae:parameters>
+      		</validator>
+      		<validator class="string">
+        		<arguments>
+          			<argument>short_subject</argument>
+        		</arguments>
+        		<ae:parameters>
+         			 <ae:parameter name="required">true</ae:parameter>
+          		</ae:parameters>
+          		
+      		</validator>
+      		<validator class="number">
+			<arguments>
+				<argument>third_category</argument>
+			</arguments>
+			    <ae:parameters>
+         			 <ae:parameter name="required">true</ae:parameter>
+          		</ae:parameters>
+		</validator >
+		 		<validator class="number">
+			<arguments>
+				<argument>order</argument>
+			</arguments>
+			    <ae:parameters>
+         			 <ae:parameter name="required">true</ae:parameter>
+          		</ae:parameters>
+		</validator >
+		<validator class="number">
+			<arguments>
+				<argument>user_id</argument>
+			</arguments>
+			    <ae:parameters>
+         			 <ae:parameter name="required">true</ae:parameter>
+          		</ae:parameters>
+		</validator >
+			<validator class="number">
+			<arguments>
+				<argument>need</argument>
+			</arguments>
+			    <ae:parameters>
+         			 <ae:parameter name="required">true</ae:parameter>
+          		</ae:parameters>
+		</validator >
+		<validator class="number">
+			<arguments>
+				<argument>spicial</argument>
+			</arguments>
+			    <ae:parameters>
+         			 <ae:parameter name="required">true</ae:parameter>
+          		</ae:parameters>
+		</validator >
+		<validator class="number">
+			<arguments>
+				<argument>publisher</argument>
+			</arguments>
+			    <ae:parameters>
+         			 <ae:parameter name="required">true</ae:parameter>
+          		</ae:parameters>
+		</validator >
+		
+      		<validator class="string">
+        		<arguments>
+          			<argument>long_desc</argument>
+        		</arguments>
+        		<ae:parameters>
+         			 <ae:parameter name="required">true</ae:parameter>
+          		</ae:parameters>
+      		</validator>
+      			<validator class="string">
+        		<arguments>
+          			<argument>short_desc</argument>
+        		</arguments>
+        		<ae:parameters>
+         			 <ae:parameter name="required">false</ae:parameter>
+          		</ae:parameters>
+      		</validator>
+      			<validator class="string">
+        		<arguments>
+          			<argument>english_desc</argument>
+        		</arguments>
+        		<ae:parameters>
+         			 <ae:parameter name="required">false</ae:parameter>
+          		</ae:parameters>
+      		</validator>
+      			<validator class="string">
+        		<arguments>
+          			<argument>help_desc</argument>
+        		</arguments>
+        		<ae:parameters>
+         			 <ae:parameter name="required">false</ae:parameter>
+          		</ae:parameters>
+      		</validator>
+      			<validator class="string">
+        		<arguments>
+          			<argument>download_link</argument>
+        		</arguments>
+        		<ae:parameters>
+         			 <ae:parameter name="required">true</ae:parameter>
+          		</ae:parameters>
+      		</validator>
+      		<validator class="string">
+        		<arguments>
+          			<argument>tag_desc</argument>
+        		</arguments>
+        		<ae:parameters>
+         			 <ae:parameter name="required">true</ae:parameter>
+          		</ae:parameters>
+      		</validator>
+      		<validator class="string">
+        		<arguments>
+          			<argument>tag_keywords</argument>
+        		</arguments>
+        		<ae:parameters>
+         			 <ae:parameter name="required">true</ae:parameter>
+          		</ae:parameters>
+      		</validator>
+       
+		</validators>
+		
+	</ae:configuration>
+	
+</ae:configurations>
